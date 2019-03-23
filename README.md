@@ -10,6 +10,10 @@ Contains the practical work developed in the course of Introduction to Pattern R
 4. Optical Flow
 5. Classifiers
 6. Kittler Thresholding Algorithm
+7. Not found
 8. Perceptron
+9. Not found
 
 Semester II - 2018
+
+This repository is uncompleted and it will be updated
