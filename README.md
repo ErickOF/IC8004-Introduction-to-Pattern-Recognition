@@ -16,4 +16,4 @@ Contains the practical work developed in the course of Introduction to Pattern R
 
 Semester II - 2018
 
-This repository is uncompleted and it will be updated
+This repository is incompleted and it will be updated
