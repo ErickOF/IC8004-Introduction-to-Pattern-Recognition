@@ -1,4 +1,4 @@
-# Introduction to Pattern Reconition
+# Introduction to Pattern Recognition
 
 Contains the practical work developed in the course of Introduction to Pattern Recognition, which is given as an elective of the Computer Science career at the Technological Institute of Costa Rica.
 
